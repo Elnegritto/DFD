@@ -1,0 +1,71 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+'Inserte el valor de su salario'
+5
+1
+3
+KH1
+7
+0
+1
+13
+KH1 > 3000000
+7
+0
+1
+31
+KH1 > 1200000 OR KH1 <= 3000000
+6
+2
+3
+KH2
+10
+KH1 * 0.05
+3
+KH3
+9
+KH1 - KH2
+4
+1
+31
+'Su salario final es de: $',KH3
+13
+6
+2
+3
+KH2
+10
+KH1 * 0.08
+3
+KH3
+9
+KH1 - KH2
+4
+1
+31
+'Su salario final es de: $',KH3
+13
+13
+6
+2
+3
+KH2
+10
+KH1 * 0.09
+3
+KH3
+9
+KH1 - KH2
+4
+1
+31
+'Su salario final es de: $',KH3
+13
+1

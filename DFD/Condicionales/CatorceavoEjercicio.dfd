@@ -1,0 +1,58 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+50
+'Inserte el valor de la unidad de estado solidoKH'
+5
+1
+3
+KH1
+4
+1
+48
+'Inserte el dia de compra, 1 Lunes o 2 SabadoKH'
+5
+1
+3
+KH2
+7
+0
+1
+7
+KH2 = 1
+6
+2
+3
+KH3
+10
+KH1 * 0.18
+3
+KH4
+9
+KH1 - KH3
+4
+1
+76
+'El valor a pagar por la unidad de estado solido el dia Sabado es de: $',KH4
+13
+6
+2
+3
+KH3
+10
+KH1 * 0.15
+3
+KH4
+9
+KH1 - KH3
+4
+1
+75
+'El valor a pagar por la unidad de estado solido el dia Lunes es de: $',KH4
+13
+1

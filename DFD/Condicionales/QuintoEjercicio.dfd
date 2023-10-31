@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+6
+horas 
+1
+0
+4
+1
+29
+'Digite las horas trabadasKH'
+5
+1
+5
+horas
+7
+0
+1
+9
+horas<=48
+6
+3
+10
+horasExtra
+10
+horas - 48
+4
+hora
+16
+horas-horasExtra
+7
+salario
+33
+(hora*30000) + (horasExtra*35000)
+13
+6
+1
+7
+salario
+11
+horas*30000
+13
+4
+1
+25
+'El salario es: ',salario
+1

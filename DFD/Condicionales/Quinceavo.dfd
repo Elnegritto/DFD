@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+'Inserte un añoKH'
+5
+1
+3
+KH1
+7
+0
+1
+35
+KH1 MOD 100 = 0 AND KH1 MOD 400 = 0
+4
+1
+31
+'El año ',KH1,' no es bisiesto'
+13
+4
+1
+28
+'El año ',KH1,' es bisiesto'
+13
+1
