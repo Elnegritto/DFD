@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+24
+'Area de un trianguloKH'
+4
+1
+28
+'Ingrese el valor de b(KH)' 
+5
+1
+1
+b
+4
+1
+27
+'Ingrese el valor de h(KH)'
+5
+1
+1
+h
+6
+1
+1
+a
+7
+(b*h)/2
+4
+1
+30
+'El area del triangulo es: ',a
+1
